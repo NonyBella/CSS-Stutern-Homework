@@ -1,0 +1,45 @@
+.all {
+    display: flex;
+}
+
+.same {
+    height: 600px;
+    width: 300px;
+    border: 2px dotted blanchedalmond;
+    border: radius 50px;
+    border-radius: 70px;
+    background-color: antiquewhite;
+    margin: 20px;
+}
+
+.list {
+    margin-top: 0px;
+    padding: 20px;
+    line-height: 5;
+}
+
+
+#like {
+    text-align: center;
+    text-transform: uppercase;
+    margin: 20px;
+    color: lightcoral;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#dislike {
+    text-align: center;
+    text-transform: capitalize;
+    margin: 20px;
+    color: brown;
+}
+
+#shopping {
+    color: blue;
+    font-size: 20px;
+}
+
+#working {
+    color: red;
+    font-size: large;
+}
